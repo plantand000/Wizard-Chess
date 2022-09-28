@@ -1,0 +1,2 @@
+# Wizard-Chess
+This project is designed as a iterative approach to learn new concepts in Object Orient Programming, Game Development, Artificial Intelligence (Bot opponents), Computer Graphics, and Web Development. The goal of this project is to code a game of Wizard Chess from Harry Potter allowing you to play against others or a bot opponent. The chess pieces will eventually be animated in honor of authentic wizard chess as show in the Harry Potter movies.
